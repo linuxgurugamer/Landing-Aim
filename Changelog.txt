@@ -1,0 +1,13 @@
+Changelog
+
+1.4.0
+	Fixed incorrect path to shader
+	Added restriction of ability to pilot experience and level
+	Added license text
+	Added version file
+
+Old Versions
+1.3.1
+	Ready for KSP 1.3.1
+1.2.2.1
+	No changelog provided
